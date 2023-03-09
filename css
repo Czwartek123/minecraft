@@ -1,7 +1,9 @@
 html {
   background-color: black;
-  background-image: url(download.jpg);
+  background-image: url(479393.jpg);
   overflow: hidden;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .ramka {
@@ -104,22 +106,13 @@ html {
   font-family: cursive;
 }
 
-.square9 {
-  height: 80px;
-  width: 80px;
-  background-color: rgb(166, 12, 166);
-  position: absolute;
-  left: 300px;
-  top: 495px;
-}
-
 .steve {
   height: 300px;
-  width: 115px;
+  width: 120px;
   background-color: black;
   position: absolute;
   top: 145px;
-  left: 385px;
+  left: 380px;
   z-index: 1;
 }
 
@@ -187,3 +180,95 @@ html {
   position: absolute;
   width: 100px;
 }
+
+.helm {
+  height: 65px;
+  width: 65px;
+  background-color: rgb(166, 12, 166);
+  position: absolute;
+  left: 308px;
+  top: 148px;
+  z-index: 1;
+}
+
+.klata {
+  height: 65px;
+  width: 65px;
+  background-color: rgb(166, 12, 166);
+  position: absolute;
+  left: 308px;
+  top: 225px;
+  z-index: 1;
+}
+
+.spodnie {
+  height: 65px;
+  width: 65px;
+  background-color: rgb(166, 12, 166);
+  position: absolute;
+  left: 308px;
+  top: 300px;
+  z-index: 1;
+}
+
+.buty {
+  height: 65px;
+  width: 65px;
+  background-color: rgb(166, 12, 166);
+  position: absolute;
+  left: 308px;
+  top: 375px;
+  z-index: 1;
+}
+
+.stif {
+  height: 230px;
+  position: absolute;
+  bottom: 30px;
+  left: 5px;
+}
+
+.mieczycho {
+  z-index: 1;
+  position: absolute;
+  height: 66px;
+  width: 66px;
+  left: 17px;
+}
+
+.lopacisko {
+  z-index: 1;
+  position: absolute;
+  height: 66px;
+  width: 66px;
+  left: 110px;
+  top: 13px;
+}
+
+.siekiersko {
+  z-index: 1;
+  position: absolute;
+  height: 66px;
+  width: 66px;
+  left: 200px;
+  top: 13px;
+}
+
+.chleb {
+  z-index: 1;
+  position: absolute;
+  height: 66px;
+  width: 66px;
+  left: 296px;
+  top: 13px;
+}
+
+.strzala {
+  position: absolute;
+  top: 200px;
+  z-index: 1;
+  left: 810px;
+  height: 90px;
+  width: 90px;
+}
+
